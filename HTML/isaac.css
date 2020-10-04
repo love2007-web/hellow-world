@@ -1,0 +1,26 @@
+		h1 {
+			font-style: italic;
+			text-align: center;
+			padding: 15px;
+		}
+		body {
+			
+		}
+		img {
+			position: relative;
+			right: -50%;
+		}
+		#basic-info{
+			padding: 15px;
+			border: 7px groove royalblue;
+		}
+		.basic-info {
+			border: 1px solid;
+		}
+		.O {
+			font-size: xx-large;
+		}
+		#info {
+			padding: 20px;
+		}
+	

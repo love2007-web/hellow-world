@@ -1,0 +1,36 @@
+
+            .img {
+                position: relative;
+                top: 20;
+                right: -300;
+                padding: 15;
+                z-index: 1;
+            }
+            h1 {
+                background-color: blue;
+                padding: 20px;
+                text-align: center;
+                position: relative;
+                top: -8;
+                z-index: 2;
+            }
+            body {
+                background-color: gray;
+            }
+            h2 {
+                text-align: center;
+            }
+            h3 {
+                text-align: center;
+            }
+            p {
+                background-color: white;
+                margin: 15;
+                text-align: center;
+                padding: 10;
+            }
+            li, ul {
+                background-color: red;
+            }
+            
+        
